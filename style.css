@@ -3,6 +3,26 @@ body {
 }
 
 img {
-    height: 345px
+    height: 345px;
 
+}
+
+h1 {
+    font-family: Gill Sans;
+}
+
+main {
+    background-color: aqua;
+}
+
+p {
+    color: #008500
+}
+
+h3 {
+    color: #008500
+}
+
+h1 {
+    color: #008500
 }
